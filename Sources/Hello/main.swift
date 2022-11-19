@@ -14,9 +14,9 @@ struct Hello: Website {
     }
 
     // Update these properties to configure your website:
-    var url = URL(string: "https://your-website-url.com")!
+    var url = URL(string: "https://laskoski.com.br")!
     var name = "Hello"
-    var description = "A description of Hello"
+    var description = "Personal website by Kenneth Laskoski"
     var language: Language { .english }
     var imagePath: Path? { nil }
 }
